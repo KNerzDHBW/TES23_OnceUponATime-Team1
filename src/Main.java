@@ -65,7 +65,7 @@ public final class Main {
         System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
         System.out.println("Die Maus schmolz Schokolade über einem Wasserbad und strich sie über die Bratwurst");
         System.out.println();
-        System.out.println("Eines Tages hatte die Bratwurst sehr, sehr starken Hunger.");
+        System.out.println("Eines Tages hatte die Bratwurst sehr, sehr starken Hunger und wollte Kanibalismus begehen.");
 
     }
 }
