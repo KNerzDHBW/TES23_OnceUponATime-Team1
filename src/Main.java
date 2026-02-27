@@ -62,5 +62,7 @@ public final class Main {
         System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
         System.out.println("Der Vogel war ein fruehaufsteher, die Maus war eine Nachteule und die Bratwurst war immer hungrig.");
         System.out.println();
+        System.out.println("Eines Tages hatte die Bratwurst sehr, sehr starken Hunger.");
+
     }
 }
