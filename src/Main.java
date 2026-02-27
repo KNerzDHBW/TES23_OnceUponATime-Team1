@@ -53,8 +53,7 @@ public final class Main {
         System.out.println("besonders, dass er nur von denjenigen gefunden werden konnte, ");
         System.out.println("von denen der PID-Regler sich finden lassen wollte.");
         System.out.println();
-        System.out.println("Walter Frosch, was haben Sie denn da in Ihrem Socken?");
-        System.out.println("hehehehe was geht dich dass den an mein Süßer? Sagte Walter und fragte die Dame, ob sie Zigaretten haben wolle");
+        System.out.println("\"Walter Frosch, Herr Seekönig, was haben Sie denn da in Ihrem Stutzen?\"");
 
 
         /*
