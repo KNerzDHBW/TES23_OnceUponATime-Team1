@@ -35,7 +35,7 @@ public final class Main {
          * Drittes Kapitel
          */
         System.out.println();
-        System.out.println("Das Traumfresserchen");
+        System.out.println("Des Traumfresserle");
         System.out.println();
         System.out.println("Es war einmal ein Koenigreich, in dem war seit einem Jahr die ");
         System.out.println("Sonne nicht mehr aufgegangen.");
