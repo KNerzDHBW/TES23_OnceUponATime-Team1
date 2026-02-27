@@ -50,6 +50,7 @@ public final class Main {
         System.out.println("besonders, dass er nur von denjenigen gefunden werden konnte, ");
         System.out.println("von denen der See sich finden lassen wollte.");
         System.out.println();
+        System.out.println("Walter Frosch, was haben Sie denn da in Ihrem Socken?");
 
         /*
          * Fuenftes Kapitel
@@ -60,7 +61,9 @@ public final class Main {
 
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
         System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
-        System.out.println("Der Vogel wollte im kargen Winter zunehmend öfter die Bratwurst essen.");
+        System.out.println("Die Maus schmolz Schokolade über einem Wasserbad und strich sie über die Bratwurst");
         System.out.println();
+        System.out.println("Eines Tages hatte die Bratwurst sehr, sehr starken Hunger.");
+
     }
 }
