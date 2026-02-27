@@ -38,6 +38,7 @@ public final class Main {
         System.out.println();
         System.out.println("Es war einmal ein Koenigreich, in dem war seit einem Jahr die ");
         System.out.println("Sonne nicht mehr aufgegangen.");
+        System.out.println("Die Solgenia ist der schnellste Weg zu DER Insel zu kommen");
         System.out.println();
 
         /*
