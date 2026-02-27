@@ -28,7 +28,7 @@ public final class Main {
 
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
-        System.out.println("Der Drache ist genauso rot!");
+        System.out.println("Der Drache war genauso rot!");
 
         /*
          * Drittes Kapitel
