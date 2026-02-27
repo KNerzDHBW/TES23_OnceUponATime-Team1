@@ -25,7 +25,7 @@ public final class Main {
          * Zweites Kapitel
          */
         System.out.println();
-        System.out.println("Die siebe Swege und de Dlache");
+        System.out.println("Die sieben Zwerge und der Drache");
         System.out.println();
 
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
@@ -54,7 +54,7 @@ public final class Main {
         System.out.println("von denen der PID-Regler sich finden lassen wollte.");
         System.out.println();
         System.out.println("Walter Frosch, was haben Sie denn da in Ihrem Socken?");
-        System.out.println("hehehehe was geht dich dass den an mein Süßer? Sagte Walter");
+        System.out.println("hehehehe was geht dich dass den an mein Süßer? Sagte Walter und fragte die Dame, ob sie Zigaretten haben wolle");
 
 
         /*
