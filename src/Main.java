@@ -17,6 +17,7 @@ public final class Main {
         System.out.println("Es lebte einmal in einem weit entfernten Land ein Koenig und ");
         System.out.println("eine Koenigin, die wuenschten sich nichts sehnlicher als nicht ");
         System.out.println("mehr Koenig und Koenigin sein zu muessen.");
+        System.out.println("Denn sie wollten ihre erotischen Phantasien ausleben, ohne dass sie von ihren Untertanen beobachtet wurden.");
         System.out.println();
 
         /*
