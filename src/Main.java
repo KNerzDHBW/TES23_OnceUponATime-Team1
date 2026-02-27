@@ -61,5 +61,7 @@ public final class Main {
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
         System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
         System.out.println();
+        System.out.println("Eines Tages hatte die Bratwurst sehr, sehr starken Hunger.");
+
     }
 }
