@@ -50,6 +50,7 @@ public final class Main {
         System.out.println("besonders, dass er nur von denjenigen gefunden werden konnte, ");
         System.out.println("von denen der See sich finden lassen wollte.");
         System.out.println();
+        System.out.println("Walter Frosch, was haben Sie denn da in Ihrem Socken?");
 
         /*
          * Fuenftes Kapitel
