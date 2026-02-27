@@ -24,7 +24,7 @@ public final class Main {
          * Zweites Kapitel
          */
         System.out.println();
-        System.out.println("Die sieben Zwerge und der Drache");
+        System.out.println("Die siebe Swege und de Dlache");
         System.out.println();
 
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
